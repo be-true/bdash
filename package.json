@@ -1,0 +1,28 @@
+{
+  "name": "@be-true/bdash",
+  "version": "0.0.0",
+  "description": "Helper function for database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/be-true/bdash.git"
+  },
+  "keywords": [
+    "database",
+    "sql",
+    "rows",
+    "result"
+  ],
+  "author": "eawapownikov@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/be-true/bdash/issues"
+  },
+  "homepage": "https://github.com/be-true/bdash#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
